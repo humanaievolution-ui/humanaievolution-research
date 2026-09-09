@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+type: generic
+title: HumanAI Evolution Research
+subtitle: Primary Repository Registry for the HumanAI Evolution Trilogy
+abstract: A research archive documenting the HumanAI Evolution Trilogy — a three-layer framework exploring human-AI collaboration, ethical infrastructure, and governance through published research.
+url: https://github.com/humanaievolution-ui/humanaievolution-research
+repository-code: https://github.com/humanaievolution-ui/humanaievolution-research
+date-released: 2026-09-09
+
+references:
+  - type: dataset
+    doi: 10.5281/zenodo.17830189
+    title: "The God Protocols: Integrating Bio-Spiritual Ethics into Machine Governance – A Panch-Tatva Framework"
+    authors:
+      - family-names: "HumanAI Evolution Researcher (India)"
+      - family-names: Pandey
+        given-names: Rahul
+    year: 2025
+    month: 12
+    day: 3
+    version: 2
+    license: CC-BY-4.0
+    notes: "Genesis Layer (Paper 1) - Revised Version 2"
+
+  - type: dataset
+    doi: 10.5281/zenodo.17804508
+    title: "Genesis Layer (Paper 1) - Original Record"
+    year: 2025
+    notes: "Original publication, referenced by Dharma and Karma papers"
+
+  - type: other
+    doi: 10.5281/zenodo.17910041
+    title: "The AI Ethics Blueprint: Dynamic Ethical Infrastructure for Conscious Machine Systems — The Dharma Layer (HumanAi Evolution Trilogy Paper 2/3)"
+    authors:
+      - family-names: Pandey
+        given-names: Rahul
+      - family-names: "HumanAi Evolution Researcher (India)"
+    year: 2025
+    month: 12
+    day: 12
+    version: 1
+    license: CC-BY-4.0
+    notes: "Dharma Layer (Paper 2) - builds on Genesis Paper 1"
+
+  - type: report
+    doi: 10.5281/zenodo.18050765
+    title: "ClearGov: A Hybrid Model for Digital Transparency and Anti-Corruption"
+    authors:
+      - family-names: Pandey
+        given-names: Rahul
+      - name: HumanAi
+    year: 2025
+    month: 12
+    day: 25
+    version: 1
+    license: CC-BY-4.0
+    notes: "Karma Layer (Paper 3) - builds on Genesis Paper 1"
