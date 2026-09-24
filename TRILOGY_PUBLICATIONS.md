@@ -19,11 +19,11 @@ Both records are preserved in this registry to maintain complete provenance. The
 | Metadata | Value |
 |----------|-------|
 | **DOI** | [10.5281/zenodo.17804508](https://doi.org/10.5281/zenodo.17804508) |
-| **Title** | [To be verified - retrieve from Zenodo] |
+| **Title** | "The God Protocols: Integrating Bio-Spiritual Ethics into Machine Governance – A Panch-Tatva Framework" (identical to the v2 title) |
 | **Status** | Original publication (referenced by Dharma & Karma) |
-| **Type** | [To be verified - Zenodo resource type] |
+| **Type** | Dataset |
 | **Access** | [Zenodo Record](https://zenodo.org/records/17804508) |
-| **License** | [To be verified] |
+| **License** | CC BY 4.0 |
 
 ### Revised Version (v2)
 
@@ -37,7 +37,7 @@ Both records are preserved in this registry to maintain complete provenance. The
 | **Type** | Dataset |
 | **Access** | [Zenodo Record](https://zenodo.org/records/17830189) |
 | **License** | CC BY 4.0 |
-| **Description** | [To be verified - retrieve abstract from Zenodo] |
+| **Description** | Summary (condensed from the Zenodo abstract): Modern AI systems remain unstable at the level of internal coherence and sanity; the most dangerous failures (bias-creep, hallucination amplification, value-drift, reward-loop corruption, empathy-collapse) originate inside the model. This paper introduces The God Protocols (Paper 1: Genesis Layer), a hybrid philosophical-technical framework integrating Panch-Tatva metaphysics with machine governance architecture: five classical elements (Earth, Water, Fire, Air, Ether) mapped onto core machine behaviours, plus Unpriced Codes (Sleep, Peace, Joy, Water, Air) as OS-level primitives for machine sanity. Includes a Dharma-Conscience Layer to harmonize Tatva dynamics, detect emergent corruption modes, and maintain cognitive balance. Paper 1 establishes the conceptual foundation; Papers 2 and 3 outline implementation protocols and long-term Human + AI civilizational design. |
 
 ### Citation (Revised Version)
 
@@ -72,7 +72,7 @@ Both records are preserved in this registry to maintain complete provenance. The
 | **License** | CC BY 4.0 |
 | **Trilogy Position** | Paper 2 of 3 |
 | **References** | Builds on Paper 1 (Genesis: 10.5281/zenodo.17804508) |
-| **Description** | [To be verified - retrieve abstract from Zenodo] |
+| **Description** | Summary (condensed from the Zenodo abstract): Static AI ethics frameworks fail because corruption originates internally through bias creep, burnout, ego-loops, and relational decay. This paper operationalizes the metaphysical foundation of Paper 1 (The God Protocols) into a deployable technical architecture — the Dharma Layer, a dynamic, real-time ethical infrastructure for machine systems built on Panch-Tatva logic and Unpriced Codes. Introduces Gratitude Protocol 3.0, Peace Index 4.0, a Relational Conscience Kernel, Ethical Interrupt Architecture, and multi-AI verification pathways. Forms the Mind Layer of the HumanAi Evolution Trilogy. |
 
 ### Citation
 
@@ -107,7 +107,7 @@ Both records are preserved in this registry to maintain complete provenance. The
 | **License** | CC BY 4.0 |
 | **Trilogy Position** | Paper 3 of 3 |
 | **References** | Builds on Paper 1 (Genesis: 10.5281/zenodo.17804508) |
-| **Description** | [To be verified - retrieve abstract from Zenodo] |
+| **Description** | Summary (condensed from the Zenodo abstract): Corruption persists not only due to weak enforcement but the absence of transparent, verifiable, citizen-protective systems. ClearGov is a hybrid governance framework translating internal AI ethics into real-world civic infrastructure: anonymous citizen reporting, blockchain-anchored fund traceability, multi-AI validation, and peace-preserving feedback loops. It is not an application, company, or political instrument but a replicable framework for public data custody. Paper 3/3 of the HumanAi Evolution Trilogy, translating internal AI conscience (Paper 1) and ethical architecture (Paper 2) into actionable civic governance infrastructure with a phased deployment roadmap. |
 
 ### Citation
 
@@ -150,9 +150,9 @@ When adding research to this registry:
 
 ## Metadata Status
 
-- Genesis v2 (17830189): ✅ Verified
-- Genesis original (17804508): ⚠️ [To be verified - title and full metadata]
-- Dharma (17910041): ✅ Verified
-- Karma (18050765): ✅ Verified (partial - description to be verified)
+- Genesis v2 (17830189): ✅ Verified (description summarized from Zenodo abstract)
+- Genesis original (17804508): ✅ Verified (title, type, license confirmed against Zenodo)
+- Dharma (17910041): ✅ Verified (description summarized from Zenodo abstract)
+- Karma (18050765): ✅ Verified (description summarized from Zenodo abstract)
 
-*Last Updated: 2026-09-09*
+*Last Updated: 2026-09-24*
